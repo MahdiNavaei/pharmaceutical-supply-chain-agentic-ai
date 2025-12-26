@@ -66,10 +66,11 @@ out/
 *.log
 logs/
 
-# Data files (optional - comment out if you want to include sample data)
-# data/
-# *.csv
-# *.xlsx
+# Data files - Large datasets should not be committed
+data/*.csv
+data/*.xlsx
+data/*.zip
+data/*.xls
 
 # Temporary files
 *.tmp
