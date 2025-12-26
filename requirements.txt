@@ -1,0 +1,51 @@
+# Web Framework
+fastapi
+uvicorn[standard]
+
+# LangGraph & LangChain
+langgraph
+langchain
+langchain-openai
+openai
+
+# Database
+motor
+pymongo
+
+# Machine Learning & Forecasting
+prophet
+scikit-learn
+pandas
+numpy
+
+# Deep Learning (for LSTM)
+tensorflow
+torch
+torchvision
+
+# Optimization
+ortools
+
+# Data Processing
+openpyxl
+python-multipart
+
+# Utilities
+pydantic
+python-dotenv
+requests
+
+# Development & Testing
+pytest
+pytest-asyncio
+black
+mypy
+
+# UI (for future development)
+streamlit
+plotly
+dash
+
+# Logging & Monitoring
+loguru
+structlog
