@@ -67,9 +67,9 @@ out/
 logs/
 
 # Data files (optional - comment out if you want to include sample data)
-data/
-*.csv
-*.xlsx
+# data/
+# *.csv
+# *.xlsx
 
 # Temporary files
 *.tmp
