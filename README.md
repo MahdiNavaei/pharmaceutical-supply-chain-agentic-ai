@@ -763,8 +763,6 @@ SOFTWARE.
 
 ### 👨‍💻 Author
 **Mahdi Navaei** - Senior AI/ML Engineer
-- 📍 **Location**: Tehran, Iran
-- 📞 **Phone**: +98 912 594 5239
 - 📧 **Email**: mahdinavaei1367@gmail.com
 - 🔗 **LinkedIn**: [linkedin.com/in/mahdinavaei](https://www.linkedin.com/in/mahdinavaei)
 - 🐙 **GitHub**: [github.com/MahdiNavaei](https://github.com/MahdiNavaei)
@@ -772,12 +770,6 @@ SOFTWARE.
 
 **Senior AI/ML Engineer with 7+ years of experience in Generative AI, real-time recommendation engines, NLP/LLM applications, and enterprise RAG platforms. Specialized in architecting intelligent systems at scale with proven track record of delivering high-impact automation solutions.**
 
-### 🆘 Support Channels
-- 📧 **Email Support**: support@pharma-agentic-ai.com
-- 📖 **Documentation**: [docs/](docs/)
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/MahdiNavaei/pharmaceutical-supply-chain-agentic-ai/issues)
-- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/MahdiNavaei/pharmaceutical-supply-chain-agentic-ai/discussions)
-- 📱 **Live Chat**: Available during business hours
 
 ### 📚 Resources
 - **API Documentation**: http://localhost:1020/docs
