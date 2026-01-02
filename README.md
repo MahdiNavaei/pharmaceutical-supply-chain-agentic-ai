@@ -848,7 +848,85 @@ Special thanks to the open-source community and contributors who made this proje
 - **Specialized Research** in pediatric appendicitis diagnosis, heart failure prediction, and forex market forecasting
 
 ---
-**این پروژه یک نمونه portfolio شخصی است که از معماری‌های استاندارد صنعت و تکنولوژی‌های open-source استفاده می‌کند.**
+## 📖 منابع و مراجع
+
+### پروژه‌های مشابه و الهام‌بخش
+این پروژه یک نمونه آموزشی و portfolio شخصی است که از معماری‌های استاندارد 
+صنعت و تکنولوژی‌های open-source عمومی استفاده می‌کند. پروژه‌های مشابه 
+متعددی در GitHub وجود دارند که نشان‌دهنده رایج بودن این معماری است:
+
+**پروژه‌های Open Source مرتبط:**
+- [sherwyn11/Pharma-Chain](https://github.com/sherwyn11/Pharma-Chain) - سیستم blockchain برای زنجیره تامین دارویی
+- [VaishnaviThakre/SupplyChain-AI](https://github.com/VaishnaviThakre/SupplyChain-AI) - بهینه‌سازی زنجیره تامین با AI
+- [Lokesh598/Nisum-Pharmaceuticals](https://github.com/Lokesh598/Nisum-Pharmaceuticals) - مدیریت زنجیره تامین دارویی
+- [ciol-researchlab/SupplyGraph](https://github.com/ciol-researchlab/SupplyGraph) - Benchmark Dataset برای برنامه‌ریزی زنجیره تامین
+- [SanatKulkarni/ChainRx](https://github.com/SanatKulkarni/ChainRx) - سیستم Web3 برای داروخانه و supply chain
+
+### مقالات و منابع آموزشی
+این پروژه با استفاده از مقالات، tutorials و best practices عمومی صنعت توسعه یافته است:
+
+- **Agentic AI in Supply Chain:** استفاده از agentic AI برای بهینه‌سازی زنجیره تامین یک معماری استاندارد است که توسط شرکت‌های بزرگ مثل Walmart استفاده می‌شود
+- **LangGraph Framework:** این پروژه از LangGraph، یک framework open-source برای ساخت multi-agent systems استفاده می‌کند
+- **Demand Forecasting with AI:** روش‌های demand forecasting با Prophet و LSTM از مدل‌های استاندارد machine learning هستند
+
+### تکنولوژی‌های Open Source استفاده شده
+تمامی ابزارها و کتابخانه‌های استفاده شده در این پروژه open-source و در دسترس عموم هستند:
+- **LangGraph** - Multi-agent orchestration framework
+- **OpenAI GPT-4 API** - Large Language Model
+- **Prophet & LSTM** - Time series forecasting models
+- **Google OR-Tools** - Optimization algorithms (VRP/TSP)
+- **Plotly & Streamlit** - Data visualization
+
+### یادداشت مهم
+این پروژه صرفاً یک نمونه آموزشی و نمایشی (portfolio/learning project) است که 
+با هدف یادگیری و تسلط بر تکنولوژی‌های مدرن AI طراحی شده است. هیچ داده واقعی، 
+اطلاعات محرمانه، یا دارایی معنوی خاصی در این پروژه استفاده نشده است.
+
+
+## 📖 References & Resources
+
+### Similar Projects & Inspiration
+This project is an educational portfolio demonstrating standard industry architectures 
+and publicly available open-source technologies. Multiple similar projects exist on 
+GitHub, demonstrating the commonality of this architectural approach:
+
+**Related Open Source Projects:**
+- [sherwyn11/Pharma-Chain](https://github.com/sherwyn11/Pharma-Chain) - Blockchain-based pharmaceutical supply chain system
+- [VaishnaviThakre/SupplyChain-AI](https://github.com/VaishnaviThakre/SupplyChain-AI) - AI-powered supply chain optimization
+- [Lokesh598/Nisum-Pharmaceuticals](https://github.com/Lokesh598/Nisum-Pharmaceuticals) - Pharmaceutical supply chain management
+- [ciol-researchlab/SupplyGraph](https://github.com/ciol-researchlab/SupplyGraph) - Benchmark dataset for supply chain planning
+- [SanatKulkarni/ChainRx](https://github.com/SanatKulkarni/ChainRx) - Web3-based pharmacy and supply chain system
+
+### Academic Papers & Tutorials
+This project was developed using publicly available articles, tutorials, and 
+industry best practices:
+
+- **Agentic AI for Supply Chain Optimization:** The use of agentic AI for supply chain 
+  optimization is a standard architecture employed by major companies like Walmart and Accenture
+- **LangGraph Framework:** This project uses LangGraph, an open-source framework 
+  for building multi-agent AI systems
+- **AI-Powered Demand Forecasting:** Demand forecasting methods using Prophet and 
+  LSTM are standard machine learning models widely taught and documented
+
+### Open Source Technologies Used
+All tools and libraries used in this project are open-source and publicly available:
+- **LangGraph** - Multi-agent orchestration framework
+- **OpenAI GPT-4 API** - Large Language Model (public API)
+- **Prophet & LSTM** - Standard time series forecasting models
+- **Google OR-Tools** - Open-source optimization algorithms (VRP/TSP)
+- **Plotly & Streamlit** - Data visualization frameworks
+
+### Important Disclaimer
+This is purely an educational and portfolio/demonstration project created for learning 
+purposes and skill development in modern AI technologies. No proprietary data, 
+confidential information, or specific intellectual property has been used in this project. 
+The project implements publicly available algorithms and architectures documented in 
+academic literature and open-source communities.
+
+**Note:** This implementation is based on standard industry practices and publicly 
+available methodologies. The architectural patterns, algorithms, and approaches used 
+are common in the supply chain optimization domain and can be found in numerous 
+academic papers, tutorials, and open-source projects.
 
 ---
 **Made with ❤️ by Mahdi Navaei for revolutionizing pharmaceutical supply chains**
