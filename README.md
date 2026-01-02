@@ -927,6 +927,43 @@ academic literature and open-source communities.
 available methodologies. The architectural patterns, algorithms, and approaches used 
 are common in the supply chain optimization domain and can be found in numerous 
 academic papers, tutorials, and open-source projects.
+---
+## 🎓 Academic & Educational Purpose (هدف آکادمیک و آموزشی)
+
+This project is developed solely for:
+- **Educational purposes** - Learning and skill development
+- **Portfolio demonstration** - Showcasing technical abilities
+- **Research and experimentation** - Exploring AI architectures
+- **Open-source contribution** - Sharing knowledge with the community
+
+**NOT intended for:**
+- ❌ Commercial use
+- ❌ Production deployment
+- ❌ Competing with any specific company
+- ❌ Using or revealing any proprietary information
+
+This is a **proof-of-concept** implementation demonstrating publicly available 
+techniques and does not represent any specific company's implementation or 
+intellectual property.
+
+---
+
+این پروژه صرفاً برای موارد زیر توسعه یافته است:
+- **اهداف آموزشی** - یادگیری و توسعه مهارت
+- **نمایش portfolio** - نمایش توانایی‌های فنی
+- **تحقیق و آزمایش** - کاوش معماری‌های AI
+- **مشارکت open-source** - به اشتراک‌گذاری دانش با جامعه
+
+**هدف نیست:**
+- ❌ استفاده تجاری
+- ❌ استقرار production
+- ❌ رقابت با هیچ شرکت خاصی
+- ❌ استفاده یا افشای هیچ اطلاعات اختصاصی
+
+این یک پیاده‌سازی **proof-of-concept** است که تکنیک‌های عمومی 
+را نشان می‌دهد و نماینده پیاده‌سازی یا مالکیت معنوی هیچ شرکت خاصی نیست.
+
+
 
 ---
 **Made with ❤️ by Mahdi Navaei for revolutionizing pharmaceutical supply chains**
