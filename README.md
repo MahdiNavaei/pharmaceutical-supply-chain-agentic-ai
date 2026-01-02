@@ -848,8 +848,12 @@ Special thanks to the open-source community and contributors who made this proje
 - **Specialized Research** in pediatric appendicitis diagnosis, heart failure prediction, and forex market forecasting
 
 ---
+**این پروژه یک نمونه portfolio شخصی است که از معماری‌های استاندارد صنعت و تکنولوژی‌های open-source استفاده می‌کند.**
 
+---
 **Made with ❤️ by Mahdi Navaei for revolutionizing pharmaceutical supply chains**
+
+
 
 ⭐ **Star this repository if you find it useful!**
 
